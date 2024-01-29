@@ -1,0 +1,7 @@
+width
+cat
+director
+machine
+market
+computer
+matrix
